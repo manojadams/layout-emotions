@@ -1,0 +1,12 @@
+export const w12 = 100 / (12 / 12);
+export const w11 = 100 / (12 / 11);
+export const w10 = 100 / (12 / 10);
+export const w9 = 100 / (12 / 9);
+export const w8 = 100 / (12 / 8);
+export const w7 = 100 / (12 / 7);
+export const w6 = 100 / (12 / 6);
+export const w5 = 100 / (12 / 5);
+export const w4 = 100 / (12 / 4);
+export const w3 = 100 / (12 / 3);
+export const w2 = 100 / (12 / 2);
+export const w1 = 100 / (12 / 1);
