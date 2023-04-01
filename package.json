@@ -1,6 +1,6 @@
 {
   "name": "layout-emotions",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Collection of layout emotion components",
   "main": "dist/index.js",
   "scripts": {
