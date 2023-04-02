@@ -1,5 +1,6 @@
 import styled from "@emotion/styled";
 import columnsCSS from "./columns";
+import spacingCSS from "./../spacing";
 
 export const Row = styled.div`
     --gap-x: 1.5rem;
@@ -19,4 +20,5 @@ export const Row = styled.div`
         margin-top: var(--gap-y);
     } 
     ${columnsCSS}
+    ${spacingCSS}
 `;

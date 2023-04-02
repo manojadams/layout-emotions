@@ -41,6 +41,9 @@ const Columns = (breakPoint: number) => {
         .mcol-${breakPointIdentifier}1 {
             width: ${w1};
         }
+        .mcol {
+            flex: 1 0 0%;
+        }
     `;
 };
 
