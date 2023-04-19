@@ -1,6 +1,7 @@
 import styled from "@emotion/styled";
 import columnsCSS from "./columns";
 import spacingCSS from "./../spacing";
+import { fieldLayoutRow } from "./../misc";
 
 export const Row = styled.div`
     --gap-x: 1.5rem;
@@ -21,4 +22,5 @@ export const Row = styled.div`
     } 
     ${columnsCSS}
     ${spacingCSS}
+    ${fieldLayoutRow}
 `;
