@@ -2,8 +2,10 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/manojgetwealthy/layout-emotions/badge)](https://www.codefactor.io/repository/github/manojgetwealthy/layout-emotions)
 
-## About
-This contains a collection of layout emotion components.
+A collection of layout components meant to be used for `css in js` requirements.
+
+## Change logs
+Added clas for field layouts
 
 ## Components
 * Container
