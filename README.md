@@ -5,7 +5,7 @@
 A collection of layout components meant to be used for `css in js` requirements.
 
 ## Change logs
-Added clas for field layouts
+Fix container width
 
 ## Components
 * Container

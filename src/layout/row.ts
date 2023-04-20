@@ -13,8 +13,9 @@ export const Row = styled.div`
     margin-right: calc(-0.5 * var(--gap-x));
     margin-left: calc(-0.5 * var(--gap-x));
     > * {
-        flex-shrink: 0;
+        flex: 0 0 auto;
         width: 100%;
+        box-sizing: border-box;
         max-width: 100%;
         padding-right: calc(var(--gap-x)*.5);
         padding-left: calc(var(--gap-x)*.5);
