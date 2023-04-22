@@ -26,8 +26,7 @@ This is a very light-weight collection of `layout components in js` alongwith `c
 ## Usage
 
 ````tsx
-import { Container } from "layout-emotions";
-import { Row } from "layout-emotions";
+import { Container, Row } from "layout-emotions";
 
 function About() {
   return (
