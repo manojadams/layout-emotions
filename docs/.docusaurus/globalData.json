@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "basics/breakpoints",
+              "path": "/docs/basics/breakpoints",
+              "sidebar": "getStartedSidebar"
+            },
+            {
+              "id": "basics/columns",
+              "path": "/docs/basics/columns",
+              "sidebar": "getStartedSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "getStartedSidebar"
+            },
+            {
+              "id": "/category/basics",
+              "path": "/docs/category/basics",
+              "sidebar": "getStartedSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "getStartedSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

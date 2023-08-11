@@ -1,0 +1,16 @@
+{
+  "title": "Basics",
+  "description": "Choose a section to continue",
+  "slug": "/category/basics",
+  "permalink": "/docs/category/basics",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Columns",
+      "permalink": "/docs/basics/columns"
+    }
+  }
+}
