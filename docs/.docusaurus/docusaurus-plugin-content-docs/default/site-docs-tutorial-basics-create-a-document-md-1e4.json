@@ -15,10 +15,10 @@
   "frontMatter": {
     "sidebar_position": 2
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "getStartedSidebar",
   "previous": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "title": "Columns",
+    "permalink": "/docs/tutorial-basics/columns"
   },
   "next": {
     "title": "Create a Blog Post",

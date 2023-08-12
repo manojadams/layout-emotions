@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Layout Emotions",
-  "tagline": "Your layout using emotion components",
+  "tagline": "Styled components for layouting",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
@@ -27,7 +27,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/manojadams/projects/@manojadams/layout-emotions/docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/manojadams/layout-emotions/tree/master/docs/src"
         },
         "blog": {
           "showReadingTime": true,
@@ -42,22 +42,17 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "Layout Emotions",
+      "title": "",
       "logo": {
-        "alt": "Layout emotions logo",
+        "alt": "Layout emotions Logo",
         "src": "img/logo.png"
       },
       "items": [
         {
           "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
+          "sidebarId": "getStartedSidebar",
           "position": "left",
           "label": "Getting started"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
         },
         {
           "href": "https://github.com/manojadams/layout-emotions",
@@ -105,12 +100,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/manojadams/layout-emotions"
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2023. Layout Emotions"
+      "copyright": "Copyright © 2023 Layout emotions."
     },
     "prism": {
       "theme": {

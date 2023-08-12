@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Layout Emotions',
-  tagline: 'Your layout using emotion components',
+  tagline: 'Styled components for layouting',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,19 +64,18 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Layout Emotions',
+        title: '',
         logo: {
-          alt: 'Layout emotions logo',
+          alt: 'Layout emotions Logo',
           src: 'img/logo.png',
         },
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'getStartedSidebar',
             position: 'left',
             label: 'Getting started',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/manojadams/layout-emotions',
             label: 'GitHub',
@@ -122,12 +121,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/manojadams/layout-emotions',
+                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()}. Layout Emotions`,
+        copyright: `Copyright © ${new Date().getFullYear()} Layout emotions.`,
       },
       prism: {
         theme: lightCodeTheme,

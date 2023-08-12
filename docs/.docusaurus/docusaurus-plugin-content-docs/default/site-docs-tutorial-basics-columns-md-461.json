@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/columns",
+  "id": "tutorial-basics/columns",
+  "title": "Columns",
+  "description": "Entire available screen width is divided into 12 equal sections.",
+  "source": "@site/docs/tutorial-basics/columns.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/columns",
+  "permalink": "/docs/tutorial-basics/columns",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/columns.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "getStartedSidebar",
+  "previous": {
+    "title": "Basics",
+    "permalink": "/docs/category/basics"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/tutorial-basics/create-a-document"
+  }
+}

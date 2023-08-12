@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "description": "A very small library of styled components for layouting.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -15,9 +15,9 @@
   "frontMatter": {
     "sidebar_position": 1
   },
-  "sidebar": "tutorialSidebar",
+  "sidebar": "getStartedSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Basics",
+    "permalink": "/docs/category/basics"
   }
 }
