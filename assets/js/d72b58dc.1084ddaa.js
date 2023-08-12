@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklayout_emotions=self.webpackChunklayout_emotions||[]).push([[708],{3419:o=>{o.exports=JSON.parse('{"label":"hello","permalink":"/layout-emotions/blog/tags/hello","allTagsPath":"/layout-emotions/blog/tags","count":2}')}}]);
