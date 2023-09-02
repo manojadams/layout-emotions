@@ -7,10 +7,11 @@ export default {
   "title": "Layout Emotions",
   "tagline": "Styled components for layouting",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://manojadams.github.io",
+  "baseUrl": "/layout-emotions/",
   "organizationName": "manojadams",
   "projectName": "layout-emotions",
+  "deploymentBranch": "gh-pages",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,11 +28,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/manojadams/projects/@manojadams/layout-emotions/docs/sidebars.js",
-          "editUrl": "https://github.com/manojadams/layout-emotions/tree/master/docs/src"
+          "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/blog/"
         },
         "theme": {
           "customCss": "/Users/manojadams/projects/@manojadams/layout-emotions/docs/src/css/custom.css"
@@ -69,25 +70,29 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Introduction",
               "to": "/docs/intro"
+            },
+            {
+              "label": "Getting Started",
+              "to": "/docs/getting-started"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Used By",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+              "label": "Mui Forms",
+              "href": "https://mui-forms.vercel.app/"
             },
             {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "Metaforms core",
+              "href": "https://www.npmjs.com/package/@manojadams/metaforms-core"
             },
             {
-              "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "label": "Ant forms",
+              "href": "https://github.com/manojadams/ant-forms"
             }
           ]
         },
@@ -95,12 +100,8 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/manojadams/layout-emotions"
             }
           ]
         }

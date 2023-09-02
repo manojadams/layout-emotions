@@ -1,0 +1,23 @@
+{
+  "unversionedId": "basics/columns-using-classname",
+  "id": "basics/columns-using-classname",
+  "title": "Columns using classname",
+  "description": "Entire available screen width is divided into 12 equal sections.",
+  "source": "@site/docs/basics/columns-using-classname.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/columns-using-classname",
+  "permalink": "/layout-emotions/docs/basics/columns-using-classname",
+  "draft": false,
+  "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/basics/columns-using-classname.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "getStartedSidebar",
+  "previous": {
+    "title": "Columns using component",
+    "permalink": "/layout-emotions/docs/basics/columns-using-component"
+  }
+}

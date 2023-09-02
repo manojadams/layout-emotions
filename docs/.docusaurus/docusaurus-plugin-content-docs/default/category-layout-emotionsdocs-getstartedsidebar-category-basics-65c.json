@@ -1,0 +1,16 @@
+{
+  "title": "Basics",
+  "description": "Choose a section to continue",
+  "slug": "/category/basics",
+  "permalink": "/layout-emotions/docs/category/basics",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/layout-emotions/docs/intro"
+    },
+    "next": {
+      "title": "Breakpoints",
+      "permalink": "/layout-emotions/docs/basics/breakpoints"
+    }
+  }
+}

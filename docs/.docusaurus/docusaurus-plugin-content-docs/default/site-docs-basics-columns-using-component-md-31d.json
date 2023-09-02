@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basics/columns-using-component",
+  "id": "basics/columns-using-component",
+  "title": "Columns using component",
+  "description": "Properties of column component",
+  "source": "@site/docs/basics/columns-using-component.md",
+  "sourceDirName": "basics",
+  "slug": "/basics/columns-using-component",
+  "permalink": "/layout-emotions/docs/basics/columns-using-component",
+  "draft": false,
+  "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/basics/columns-using-component.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "getStartedSidebar",
+  "previous": {
+    "title": "Breakpoints",
+    "permalink": "/layout-emotions/docs/basics/breakpoints"
+  },
+  "next": {
+    "title": "Columns using classname",
+    "permalink": "/layout-emotions/docs/basics/columns-using-classname"
+  }
+}
