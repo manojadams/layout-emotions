@@ -2,6 +2,9 @@
 
 Page layouting `out of the box` without using any css libraries/frameworks.
 
+## Change logs
+[enhancement: Added column component](https://github.com/manojadams/layout-emotions/issues/3)
+
 ## About 
 This is a very light-weight collection of `layout components in js` alongwith `css classes for columns` meant to be used for page layouting in `css in js` requirements/solutions.
 
