@@ -11,6 +11,7 @@ This is a very light-weight collection of `layout components in js` alongwith `c
 ## Components
 * Container
 * Row
+* Col
 
 ## Available columns classes (12 grid system):
 | Column | Generic | Extra small devices | Small devices | Medium devices | Large device | Extra large Device | Very Large device |
@@ -28,28 +29,45 @@ This is a very light-weight collection of `layout components in js` alongwith `c
 | Column 11 | mcol-11 | mcol-xs-11 | mcol-sm-11 | mcol-md-11 | mcol-lg-11 | mcol-xl-11 | mcol-xxl-11 | 
 | Column 12 | mcol-12 | mcol-xs-12 | mcol-sm-12 | mcol-md-12 | mcol-lg-12 | mcol-xl-12 | mcol-xxl-12 |
   
-## Usage
+## Usage 1
 
-````tsx
+```tsx
+import { Container, Row, Col } from "layout-emotions";
+
+function About() {
+  return (
+    <Container>
+      <Row>
+        <Col md={6}>This is column 1</Col>
+        <Col md={6}>This is column 2</Col>
+      </Row>
+    </Container>
+  )
+}
+return default About;
+```
+
+## Usage 2
+
+```tsx
 import { Container, Row } from "layout-emotions";
 
 function About() {
   return (
     <Container>
       <Row>
-        <div className="mcol-6">This is para1</div>
-        <div className="mcol-6">This is para2</div>
+        <div className="mcol-6">This is column 1</div>
+        <div className="mcol-6">This is column 2</div>
       </Row>
     </Container>
   )
 }
-
 return default About;
-````
+```
 
 ### Above example is equivalent to the following in bootstrap:
 
-````html
+```html
 function About() {
   return (
     <div className="container">
@@ -62,7 +80,6 @@ function About() {
 }
 
 return default About;
-
-````
+```
 
 ## Give a ⭐️ if you liked this project!
