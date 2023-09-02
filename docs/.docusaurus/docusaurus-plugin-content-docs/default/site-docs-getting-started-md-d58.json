@@ -1,0 +1,23 @@
+{
+  "unversionedId": "getting-started",
+  "id": "getting-started",
+  "title": "Getting started",
+  "description": "A very small library of styled components for layouting.",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/layout-emotions/docs/getting-started",
+  "draft": false,
+  "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "getStartedSidebar",
+  "next": {
+    "title": "Introduction",
+    "permalink": "/layout-emotions/docs/intro"
+  }
+}

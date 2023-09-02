@@ -2,22 +2,26 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "A very small library of styled components for layouting.",
+  "description": "Basic layout components:",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/layout-emotions/docs/intro",
   "draft": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+  "editUrl": "https://github.com/manojadams/layout-emotions/blob/master/docs/docs/docs/intro.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "getStartedSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/layout-emotions/docs/getting-started"
+  },
   "next": {
     "title": "Basics",
-    "permalink": "/docs/category/basics"
+    "permalink": "/layout-emotions/docs/category/basics"
   }
 }

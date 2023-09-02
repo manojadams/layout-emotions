@@ -1,33 +1,43 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/layout-emotions/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
-          "mainDocId": "intro",
+          "path": "/layout-emotions/docs",
+          "mainDocId": "getting-started",
           "docs": [
             {
               "id": "basics/breakpoints",
-              "path": "/docs/basics/breakpoints",
+              "path": "/layout-emotions/docs/basics/breakpoints",
               "sidebar": "getStartedSidebar"
             },
             {
-              "id": "basics/columns",
-              "path": "/docs/basics/columns",
+              "id": "basics/columns-using-classname",
+              "path": "/layout-emotions/docs/basics/columns-using-classname",
+              "sidebar": "getStartedSidebar"
+            },
+            {
+              "id": "basics/columns-using-component",
+              "path": "/layout-emotions/docs/basics/columns-using-component",
+              "sidebar": "getStartedSidebar"
+            },
+            {
+              "id": "getting-started",
+              "path": "/layout-emotions/docs/getting-started",
               "sidebar": "getStartedSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/layout-emotions/docs/intro",
               "sidebar": "getStartedSidebar"
             },
             {
               "id": "/category/basics",
-              "path": "/docs/category/basics",
+              "path": "/layout-emotions/docs/category/basics",
               "sidebar": "getStartedSidebar"
             }
           ],
@@ -35,8 +45,8 @@
           "sidebars": {
             "getStartedSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/layout-emotions/docs/getting-started",
+                "label": "getting-started"
               }
             }
           }

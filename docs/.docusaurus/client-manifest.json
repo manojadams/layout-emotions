@@ -1,0 +1,267 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "455": [
+      85,
+      532,
+      918,
+      455
+    ],
+    "515": [
+      515
+    ],
+    "17896441": [
+      455,
+      532,
+      918
+    ],
+    "main": [
+      303,
+      532,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      303
+    ],
+    "0e384e19": [
+      671
+    ],
+    "14eb3368": [
+      532,
+      817
+    ],
+    "1be78505": [
+      532,
+      515
+    ],
+    "1d75f18e": [
+      314
+    ],
+    "1f391b9e": [
+      455,
+      532,
+      85
+    ],
+    "31d95298": [
+      205
+    ],
+    "393be207": [
+      414
+    ],
+    "62543dba": [
+      978
+    ],
+    "935f2afb": [
+      53
+    ],
+    "9723a14f": [
+      972
+    ],
+    "b3fe033a": [
+      386
+    ],
+    "c4f5d8e4": [
+      532,
+      195
+    ],
+    "d589d3a7": [
+      162
+    ],
+    "ffb82b2a": [
+      614
+    ],
+    "styles": [
+      85,
+      179,
+      195,
+      303,
+      455,
+      514,
+      817,
+      918,
+      532
+    ]
+  },
+  "assets": {
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.6e8ce5cb.js",
+          "hash": "345793c9e025076f",
+          "publicPath": "/layout-emotions/assets/js/935f2afb.6e8ce5cb.js"
+        }
+      ]
+    },
+    "85": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.b0306c02.js",
+          "hash": "d26c47567a646deb",
+          "publicPath": "/layout-emotions/assets/js/1f391b9e.b0306c02.js"
+        }
+      ]
+    },
+    "162": {
+      "js": [
+        {
+          "file": "assets/js/d589d3a7.54d3ba22.js",
+          "hash": "99fc584d14b1d5dc",
+          "publicPath": "/layout-emotions/assets/js/d589d3a7.54d3ba22.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.cefb65f8.js",
+          "hash": "2974f1e28d1c9568",
+          "publicPath": "/layout-emotions/assets/js/main.cefb65f8.js"
+        }
+      ]
+    },
+    "195": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.6aa716c9.js",
+          "hash": "2345a560f9a4f899",
+          "publicPath": "/layout-emotions/assets/js/c4f5d8e4.6aa716c9.js"
+        }
+      ]
+    },
+    "205": {
+      "js": [
+        {
+          "file": "assets/js/31d95298.91e971a6.js",
+          "hash": "13ef7e3b660b57f7",
+          "publicPath": "/layout-emotions/assets/js/31d95298.91e971a6.js"
+        }
+      ]
+    },
+    "303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.ef161fe6.js",
+          "hash": "65309b8b5afc4738",
+          "publicPath": "/layout-emotions/assets/js/runtime~main.ef161fe6.js"
+        }
+      ]
+    },
+    "314": {
+      "js": [
+        {
+          "file": "assets/js/1d75f18e.838fae07.js",
+          "hash": "3449fd6cb831b4fd",
+          "publicPath": "/layout-emotions/assets/js/1d75f18e.838fae07.js"
+        }
+      ]
+    },
+    "386": {
+      "js": [
+        {
+          "file": "assets/js/b3fe033a.cbae413b.js",
+          "hash": "8f45d12fe3a31339",
+          "publicPath": "/layout-emotions/assets/js/b3fe033a.cbae413b.js"
+        }
+      ]
+    },
+    "414": {
+      "js": [
+        {
+          "file": "assets/js/393be207.6eb10aad.js",
+          "hash": "4e3835a3e3f81a52",
+          "publicPath": "/layout-emotions/assets/js/393be207.6eb10aad.js"
+        }
+      ]
+    },
+    "455": {
+      "js": [
+        {
+          "file": "assets/js/455.01425884.js",
+          "hash": "21525993799a6ee2",
+          "publicPath": "/layout-emotions/assets/js/455.01425884.js"
+        }
+      ]
+    },
+    "515": {
+      "js": [
+        {
+          "file": "assets/js/515.00311e45.js",
+          "hash": "a395247f81026ace",
+          "publicPath": "/layout-emotions/assets/js/515.00311e45.js"
+        },
+        {
+          "file": "assets/js/1be78505.8181a59a.js",
+          "hash": "c0a759e5a1a0511d",
+          "publicPath": "/layout-emotions/assets/js/1be78505.8181a59a.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.b7883ff5.css",
+          "hash": "f3966d790273d972",
+          "publicPath": "/layout-emotions/assets/css/styles.b7883ff5.css"
+        }
+      ]
+    },
+    "614": {
+      "js": [
+        {
+          "file": "assets/js/ffb82b2a.7e55d770.js",
+          "hash": "6ee697d4e8811f1c",
+          "publicPath": "/layout-emotions/assets/js/ffb82b2a.7e55d770.js"
+        }
+      ]
+    },
+    "671": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.1b53368b.js",
+          "hash": "373c62d13cbc1787",
+          "publicPath": "/layout-emotions/assets/js/0e384e19.1b53368b.js"
+        }
+      ]
+    },
+    "817": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.8b6e22ec.js",
+          "hash": "1758b4bd20a3fc52",
+          "publicPath": "/layout-emotions/assets/js/14eb3368.8b6e22ec.js"
+        }
+      ]
+    },
+    "918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.9dff0ab8.js",
+          "hash": "8f9fffd07743e59a",
+          "publicPath": "/layout-emotions/assets/js/17896441.9dff0ab8.js"
+        }
+      ]
+    },
+    "972": {
+      "js": [
+        {
+          "file": "assets/js/9723a14f.2d6c45f2.js",
+          "hash": "db8d0ed03da74caa",
+          "publicPath": "/layout-emotions/assets/js/9723a14f.2d6c45f2.js"
+        }
+      ]
+    },
+    "978": {
+      "js": [
+        {
+          "file": "assets/js/62543dba.d1ba6232.js",
+          "hash": "1f2451b9b1be1a59",
+          "publicPath": "/layout-emotions/assets/js/62543dba.d1ba6232.js"
+        }
+      ]
+    }
+  }
+}

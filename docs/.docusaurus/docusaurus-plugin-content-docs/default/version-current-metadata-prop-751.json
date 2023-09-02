@@ -11,8 +11,14 @@
     "getStartedSidebar": [
       {
         "type": "link",
+        "label": "Getting started",
+        "href": "/layout-emotions/docs/getting-started",
+        "docId": "getting-started"
+      },
+      {
+        "type": "link",
         "label": "Introduction",
-        "href": "/docs/intro",
+        "href": "/layout-emotions/docs/intro",
         "docId": "intro"
       },
       {
@@ -23,18 +29,24 @@
         "items": [
           {
             "type": "link",
-            "label": "Columns",
-            "href": "/docs/basics/columns",
-            "docId": "basics/columns"
+            "label": "Breakpoints",
+            "href": "/layout-emotions/docs/basics/breakpoints",
+            "docId": "basics/breakpoints"
           },
           {
             "type": "link",
-            "label": "Breakpoints",
-            "href": "/docs/basics/breakpoints",
-            "docId": "basics/breakpoints"
+            "label": "Columns using component",
+            "href": "/layout-emotions/docs/basics/columns-using-component",
+            "docId": "basics/columns-using-component"
+          },
+          {
+            "type": "link",
+            "label": "Columns using classname",
+            "href": "/layout-emotions/docs/basics/columns-using-classname",
+            "docId": "basics/columns-using-classname"
           }
         ],
-        "href": "/docs/category/basics"
+        "href": "/layout-emotions/docs/category/basics"
       }
     ]
   },
@@ -45,16 +57,28 @@
       "description": "These are the available breakpoints used for responsive behavior.",
       "sidebar": "getStartedSidebar"
     },
-    "basics/columns": {
-      "id": "basics/columns",
-      "title": "Columns",
+    "basics/columns-using-classname": {
+      "id": "basics/columns-using-classname",
+      "title": "Columns using classname",
       "description": "Entire available screen width is divided into 12 equal sections.",
+      "sidebar": "getStartedSidebar"
+    },
+    "basics/columns-using-component": {
+      "id": "basics/columns-using-component",
+      "title": "Columns using component",
+      "description": "Properties of column component",
+      "sidebar": "getStartedSidebar"
+    },
+    "getting-started": {
+      "id": "getting-started",
+      "title": "Getting started",
+      "description": "A very small library of styled components for layouting.",
       "sidebar": "getStartedSidebar"
     },
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "A very small library of styled components for layouting.",
+      "description": "Basic layout components:",
       "sidebar": "getStartedSidebar"
     }
   }
