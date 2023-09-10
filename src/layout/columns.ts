@@ -61,20 +61,20 @@ const Columns = (breakPoint: number) => {
 
 const ColumnsCSS = `
     ${Columns(BreakPoints.xs)}
-    ${MediaQueries(BreakPoints.xxl)} {
-        ${Columns(BreakPoints.xxl)}
-    }
-    ${MediaQueries(BreakPoints.xl)} {
-        ${Columns(BreakPoints.xl)}
-    }
-    ${MediaQueries(BreakPoints.lg)} {
-        ${Columns(BreakPoints.lg)}
+    ${MediaQueries(BreakPoints.sm)} {
+        ${Columns(BreakPoints.sm)}
     }
     ${MediaQueries(BreakPoints.md)} {
         ${Columns(BreakPoints.md)}
     }
-    ${MediaQueries(BreakPoints.sm)} {
-        ${Columns(BreakPoints.sm)}
+    ${MediaQueries(BreakPoints.lg)} {
+        ${Columns(BreakPoints.lg)}
+    }
+    ${MediaQueries(BreakPoints.xl)} {
+        ${Columns(BreakPoints.xl)}
+    }
+    ${MediaQueries(BreakPoints.xxl)} {
+        ${Columns(BreakPoints.xxl)}
     }
 `;
 
