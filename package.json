@@ -1,6 +1,6 @@
 {
   "name": "layout-emotions",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Collection of layout emotion components",
   "main": "dist/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/manojadams/layout-emotions/issues"
   },
-  "homepage": "https://github.com/manojadams/layout-emotions#readme",
+  "homepage": "https://manojadams.github.io/layout-emotions",
   "dependencies": {
     "@emotion/styled": "^11.10.6"
   },
