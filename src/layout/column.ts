@@ -36,22 +36,22 @@ const Grid = grid => {
 }
 
 export const Col = styled.div<IProps>`
-    ${MediaQueries(BreakPoints.xxl)} {
-        ${props => props.xxl ? ColumnCss(props.xxl) : ''}
-    }
-    ${MediaQueries(BreakPoints.xl)} {
-        ${props => props.xl ? ColumnCss(props.xl) : ''}
-    }
-    ${MediaQueries(BreakPoints.lg)} {
-        ${props => props.lg ? ColumnCss(props.lg) : ''}
-    }
-    ${MediaQueries(BreakPoints.md)} {
-        ${props => props.md ? ColumnCss(props.md) : ''}
+    ${MediaQueries(BreakPoints.xs)} {
+        ${props => props.xs ? ColumnCss(props.xs) : ''}
     }
     ${MediaQueries(BreakPoints.sm)} {
         ${props => props.sm ? ColumnCss(props.sm) : ''}
     }
-    ${MediaQueries(BreakPoints.xs)} {
-        ${props => props.xs ? ColumnCss(props.xs) : ''}
+    ${MediaQueries(BreakPoints.md)} {
+        ${props => props.md ? ColumnCss(props.md) : ''}
+    }
+    ${MediaQueries(BreakPoints.lg)} {
+        ${props => props.lg ? ColumnCss(props.lg) : ''}
+    }
+    ${MediaQueries(BreakPoints.xl)} {
+        ${props => props.xl ? ColumnCss(props.xl) : ''}
+    }
+    ${MediaQueries(BreakPoints.xxl)} {
+        ${props => props.xxl ? ColumnCss(props.xxl) : ''}
     }
 `;
