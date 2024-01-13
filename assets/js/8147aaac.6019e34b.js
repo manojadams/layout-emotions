@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklayout_emotions=self.webpackChunklayout_emotions||[]).push([[892],{8483:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/layout-emotions/blog/tags/docusaurus","allTagsPath":"/layout-emotions/blog/tags","count":4}')}}]);
