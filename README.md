@@ -3,7 +3,7 @@
 Page layouting `out of the box` without using any css libraries/frameworks.
 
 ## Change logs
-[fix: columns overriding styles incorrectly](https://github.com/manojadams/layout-emotions/issues/7)
+[enhancement: add row properties to add gaps](https://github.com/manojadams/layout-emotions/issues/10)
 
 ## About 
 This is a very light-weight collection of `layout components in js` alongwith `css classes for columns` meant to be used for page layouting in `css in js` requirements/solutions.

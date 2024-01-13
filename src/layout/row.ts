@@ -3,9 +3,9 @@ import columnsCSS from "./columns";
 import spacingCSS from "./../spacing";
 import { fieldLayoutRow } from "./../misc";
 
-export const Row = styled.div`
-    --gap-x: 1.5rem;
-    --gap-y: 0;
+export const Row = styled.div<{gapX?: number, gapY?: number}>`
+    --gap-x: ${props => props.gapX ?? 1.5}rem;
+    --gap-y: ${props => props.gapY ?? 0}rem;
     display: flex;
     flex-wrap: wrap;
     margin-top: calc(-1 * var(--gap-y));
