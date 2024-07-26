@@ -1,4 +1,4 @@
-# Layout Emotions [![CodeFactor](https://www.codefactor.io/repository/github/manojgetwealthy/layout-emotions/badge)](https://www.codefactor.io/repository/github/manojgetwealthy/layout-emotions)
+# Layout Emotions [![CodeFactor](https://www.codefactor.io/repository/github/manojadams/layout-emotions/badge)](https://www.codefactor.io/repository/github/manojadams/layout-emotions)
 
 Page layouting `out of the box` without using any css libraries/frameworks.
 
