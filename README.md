@@ -1,9 +1,12 @@
-# Layout Emotions [![CodeFactor](https://www.codefactor.io/repository/github/manojadams/layout-emotions/badge)](https://www.codefactor.io/repository/github/manojadams/layout-emotions)
+# Layout Emotions [![CodeFactor](https://www.codefactor.io/repository/github/wearemothership/layout-emotions/badge)](https://www.codefactor.io/repository/github/wearemothership/layout-emotions)
+
+[Fork of the excellent work from manojadams](https://github.com/manojadams/layout-emotions)
 
 Page layouting `out of the box` without using any css libraries/frameworks.
 
 ## Change logs
-[enhancement: add basic margin and padding properties to row component from styled system/rebass](https://github.com/manojadams/layout-emotions/issues/13)
+* update: update packages to use latest typescript, emotion/styled etc
+* [enhancement: add basic margin and padding properties to row component from styled system/rebass](https://github.com/manojadams/layout-emotions/issues/13)
 
 ## About 
 This is a very light-weight collection of `layout components in js` alongwith `css classes for columns` meant to be used for page layouting in `css in js` requirements/solutions.
